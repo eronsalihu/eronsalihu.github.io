@@ -1,5 +1,4 @@
-{
-    "taxi": [
+[
       {
         "id": "0",
         "name": "Taxi Dallas",
@@ -31,4 +30,4 @@
         "noCallPayment": "0800 800 90"
       }
     ]
- }
+ 
