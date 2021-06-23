@@ -1,6 +1,5 @@
-{
-      [
-         {
+[
+      {
             "id":"0",
             "name":"Taxi Dallas",
             "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/62407576_2372471736150181_5808980492321554432_n.png?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=m7BkKrfLm7oAX8RhWGw&_nc_ht=scontent.fprn13-1.fna&oh=c8bbdd87944e064e1c8125043e116169&oe=60D0C22C",
@@ -120,5 +119,4 @@
             "number_2":"049 111 555",
             "noCallPayment":"0800 111 55"
          }
-      ]
-   }
+     ] 
