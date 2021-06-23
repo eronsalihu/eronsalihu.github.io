@@ -2,7 +2,7 @@
       {
             "id":"0",
             "name":"Taxi Dallas",
-            "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/62407576_2372471736150181_5808980492321554432_n.png?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=m7BkKrfLm7oAX8RhWGw&_nc_ht=scontent.fprn13-1.fna&oh=c8bbdd87944e064e1c8125043e116169&oe=60D0C22C",
+            "photo": "https://www.linkpicture.com/q/LPic60d253fb06a8c1986233315.png",
             "number_1":"044 111 666",
             "number_2":"049 111 666",
             "noCallPayment":"0800 111 66"
@@ -10,7 +10,7 @@
          {
             "id":"1",
             "name":"Online Taxi",
-            "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/54519007_1720231271411621_2624825711982018560_n.png?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=1Egb_vk5PsEAX-7vsP1&_nc_ht=scontent.fprn13-1.fna&oh=ebb73003cfec723ae27ce25d066d90e8&oe=60CFFAF8",
+            "photo": "https://www.linkpicture.com/q/LPic60d253cd776951915196418.png",
             "number_1":"044 200 300",
             "number_2":"049 200 300",
             "noCallPayment":"0800 200 30"
@@ -18,7 +18,7 @@
          {
             "id":"2",
             "name":"Blue Taxi",
-            "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/156426012_3733071716770185_2682185523565643054_n.png?_nc_cat=105&ccb=1-3&_nc_sid=973b4a&_nc_ohc=QABcBVYafEwAX-0WM3Y&_nc_ht=scontent.fprn13-1.fna&oh=1e5f8f31628914f9949a6de2115962eb&oe=60D067F6",
+            "photo": "https://www.linkpicture.com/q/LPic60d253a3e1b7e1496777581.png",
             "number_1":"044 800 900",
             "number_2":"049 800 900",
             "noCallPayment":"0800 800 90"
@@ -26,7 +26,7 @@
          {
             "id":"3",
             "name":"HEJ Taxi",
-            "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/72240823_2246457555646515_422531387862548480_n.png?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=kXSTyK34q-UAX9kZFKF&_nc_ht=scontent.fprn13-1.fna&oh=42b7275b2a0c059ca550210a73dfadfd&oe=60CFB591",
+            "photo": "https://www.linkpicture.com/q/LPic60d253657388d1825351130.png",
             "number_1":"044 333 999",
             "number_2":"049 333 999",
             "noCallPayment":"0800 333 99"
@@ -34,7 +34,7 @@
          {
             "id":"4",
             "name":"Golden Taxi",
-            "photo":"https://scontent.fprn13-1.fna.fbcdn.net/v/t1.6435-9/60625793_1278314889001962_572104890961100800_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=o9p6i3e7cMoAX-foKq0&_nc_ht=scontent.fprn13-1.fna&oh=cc71dd1cf7c33b95cd494ca8d93bb893&oe=60CFFE56",
+            "photo": "https://www.linkpicture.com/q/LPic60d2533318c2672999009.jpg",
             "number_1":"044 888 111",
             "number_2":"049 888 111",
             "noCallPayment":"0800 888 11"
@@ -42,7 +42,7 @@
          {
             "id":"5",
             "name":"Roberti - Radio Taxi",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/69638124_2407323779382382_7105656652564529152_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=COpr-_jI3dwAX8w_SBh&_nc_ht=scontent.fprn6-1.fna&oh=c0ba781dbe8f1b3b8e0bb4f8ad4dbd6e&oe=60D380C7",
+            "photo": "https://www.linkpicture.com/q/LPic60d252de7011a774727310.png",
             "number_1":"044 111 999",
             "number_2":"049 111 999",
             "noCallPayment":"0800 111 99"
@@ -50,7 +50,7 @@
          {
             "id":"6",
             "name":"Gold VIP Taxi",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/130411046_1276450386053316_8933350621319238759_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=i5hmvOJDyi0AX9pdcIB&_nc_ht=scontent.fprn6-1.fna&oh=80e2d0ee3ce576eef99ce1e6452e09a7&oe=60D3D6CD",
+            "photo": "https://www.linkpicture.com/q/LPic60d252b80129f1027982350.jpg",
             "number_1":"044 600 123",
             "number_2":"049 600 273",
             "noCallPayment":"0800 515 15"
@@ -58,7 +58,7 @@
          {
             "id":"7",
             "name":"Radio Taxi Geti",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/100652324_108263017575204_106221593566380032_n.png?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=czRsv2lo6bYAX9u2Lo3&_nc_ht=scontent.fprn6-1.fna&oh=aa5a4317e7cd0283c6e18de5c200a772&oe=60D555AB",
+            "photo": "https://www.linkpicture.com/q/LPic60d2528502f591652630744.png",
             "number_1":"044 111 777",
             "number_2":"049 111 777",
             "noCallPayment":"0800 111 77"
@@ -66,7 +66,7 @@
          {
             "id":"8",
             "name":"Urban Taxi",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/71228252_1365809946910614_5621331863625793536_n.png?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=tOLSJg3B2dMAX-M6PHx&_nc_ht=scontent.fprn6-1.fna&oh=07f60a49b6d6a6095d3632b025f64f1e&oe=60D4F4A4",
+            "photo": "https://www.linkpicture.com/q/LPic60d2525c3ca202033243664.png",  
             "number_1":"044 151 515",
             "number_2":"049 151 515",
             "noCallPayment":"0800 151 51"
@@ -74,7 +74,7 @@
          {
             "id":"9",
             "name":"Radio Taxi ASi",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/155347535_4112321172114147_1359420611706684032_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=0qLZ5sjcBYcAX8S7RPr&_nc_ht=scontent.fprn6-1.fna&oh=65e0ef1027808be01d7e5943d39c84f4&oe=60D4A266",
+            "photo": "https://www.linkpicture.com/q/LPic60d25231a7197167030005.jpg",
             "number_1":"044 304 304",
             "number_2":"049 304 304",
             "noCallPayment":"0800 544 34"
@@ -82,7 +82,7 @@
          {
             "id":"10",
             "name":"Taxi Victory",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/134856160_3856785517688277_1462860344611848776_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=RoGHfYaFpjYAX_-AbSg&tn=npssmEaZ8mKGILWT&_nc_ht=scontent.fprn6-1.fna&oh=2ca7960fb98a76be8d5e4913e51d656c&oe=60D37B2A",
+            "photo": "https://www.linkpicture.com/q/LPic60d251dfac7f21208059183.jpg",
             "number_1":"044 111 222",
             "number_2":"049 111 222",
             "noCallPayment":"0800 111 22"
@@ -90,7 +90,7 @@
          {
             "id":"11",
             "name":"Radio Taxi Beka",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/89499890_2671943933040728_8598367210529882112_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Eyid_IKxRT0AX8Z4nwI&tn=npssmEaZ8mKGILWT&_nc_ht=scontent.fprn6-1.fna&oh=dd28c53472fed06d64214e5bc9cca003&oe=60D518C8",
+            "photo": "https://www.linkpicture.com/q/LPic60d251baade671601781070.jpg", 
             "number_1":"044 327 286",
             "number_2":"049 327 286",
             "noCallPayment":"0800 201 00"
@@ -98,7 +98,7 @@
          {
             "id":"12",
             "name":"Radio Taxi Viciana",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/52005988_2343861859204093_5189800870010683392_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=DRQxvnSIYoQAX-tRc8I&_nc_ht=scontent.fprn6-1.fna&oh=b3a69178f4af9293f3b74b087713892b&oe=60D52D75",
+            "photo": "https://www.linkpicture.com/q/LPic60d2518c716641651965878.jpg",  
             "number_1":"044 666 234",
             "number_2":"049 666 234",
             "noCallPayment":"0800 666 23"
@@ -106,7 +106,7 @@
          {
             "id":"13",
             "name":"London Taxi",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/200654331_10157768766060124_3616747354615040258_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oAeOaXVno8kAX9mWeqS&_nc_ht=scontent.fprn6-1.fna&oh=e2be44faa0e4f1c8c5a270d1efa0a8c8&oe=60D4AE5F",
+            "photo": "https://www.linkpicture.com/q/LPic60d2515d0d13e527142903.png",
             "number_1":"044 668 668",
             "number_2":"049 668 668",
             "noCallPayment":"0800 668 66"
@@ -114,7 +114,7 @@
          {
             "id":"14",
             "name":"Taxi Beki",
-            "photo":"https://scontent.fprn6-1.fna.fbcdn.net/v/t1.6435-9/149471759_3779013358787738_1310539937687654834_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=kiWykph0mMIAX8ktbl1&_nc_ht=scontent.fprn6-1.fna&oh=81c44a13fcc9b0a86e99f104f1d3c829&oe=60D365B3",
+            "photo": "https://www.linkpicture.com/q/LPic60d251258d58b1826683493.jpg",
             "number_1":"044 111 555",
             "number_2":"049 111 555",
             "noCallPayment":"0800 111 55"
