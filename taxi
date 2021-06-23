@@ -3,11 +3,12 @@
         "id": "0",
         "name": "Taxi Dallas",
         "photo": "https://www.linkpicture.com/q/LPic60d253fb06a8c1986233315.png",
+        "noCallPayment": "0800 111 66",
         "phone": {
           "number_1": "044 111 666",
           "number_2": "049 111 666"
-        },
-        "noCallPayment": "0800 111 66"
+        }
+        
       },
       {
         "id": "1",
