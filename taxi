@@ -10,7 +10,7 @@
          {
             "id":"1",
             "name":"Online Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d253cd776951915196418.png",
+            "photo": "https://www.linkpicture.com/q/LPic61603fae4cb721774816159.png",
             "number_1":"044 200 300",
             "number_2":"049 200 300",
             "noCallPayment":"0800 200 30"
@@ -18,7 +18,7 @@
          {
             "id":"2",
             "name":"Blue Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d253a3e1b7e1496777581.png",
+            "photo": "https://www.linkpicture.com/q/LPic61603fff481131892163380.png",
             "number_1":"044 800 900",
             "number_2":"049 800 900",
             "noCallPayment":"0800 800 90"
@@ -26,7 +26,7 @@
          {
             "id":"3",
             "name":"HEJ Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d253657388d1825351130.png",
+            "photo": "https://www.linkpicture.com/q/LPic616040870eb6e1107430765.png",
             "number_1":"044 333 999",
             "number_2":"049 333 999",
             "noCallPayment":"0800 333 99"
@@ -34,7 +34,7 @@
          {
             "id":"4",
             "name":"Golden Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d2533318c2672999009.jpg",
+            "photo": "https://www.linkpicture.com/q/LPic616040ace2e731782287343.jpg",
             "number_1":"044 888 111",
             "number_2":"049 888 111",
             "noCallPayment":"0800 888 11"
@@ -42,7 +42,7 @@
          {
             "id":"5",
             "name":"Roberti - Radio Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d252de7011a774727310.png",
+            "photo": "https://www.linkpicture.com/q/LPic616040c96bbfc1227945700.png",
             "number_1":"044 111 999",
             "number_2":"049 111 999",
             "noCallPayment":"0800 111 99"
@@ -66,7 +66,7 @@
          {
             "id":"8",
             "name":"Urban Taxi",
-            "photo": "https://www.linkpicture.com/q/LPic60d2525c3ca202033243664.png",  
+            "photo": "https://www.linkpicture.com/q/LPic6160424d012cf1936257469.png",  
             "number_1":"044 151 515",
             "number_2":"049 151 515",
             "noCallPayment":"0800 151 51"
@@ -82,7 +82,7 @@
          {
             "id":"10",
             "name":"Taxi Victory",
-            "photo": "https://www.linkpicture.com/q/LPic60d251dfac7f21208059183.jpg",
+            "photo": "https://www.linkpicture.com/q/facebook_1633698204705_6852226914788898538.jpg",
             "number_1":"044 111 222",
             "number_2":"049 111 222",
             "noCallPayment":"0800 111 22"
